@@ -1,0 +1,70 @@
+html{
+    font-size: 100%;
+    position: relative;
+    min-height: 100%;
+  }
+  body {
+    font-family: Georgia, "Times New Roman", "FangSong", "仿宋", STFangSong, "华文仿宋", serif;
+    font-size: 1em;
+    text-align: center;
+    background-color: #F5F5F5;
+    color:#3F3F3F;
+    margin: 0 0 auto;
+  }
+  div.banner {
+    padding: 2px;
+    background-color: #262626;
+    background-image: url("https://www.transparenttextures.com/patterns/arabesque.png");
+  }
+  .banner h1{
+    color: #F5F5F5;
+    flex-shrink: 0;
+  }
+  h1 {
+    font-size: 3em;
+    margin-top: 15px;
+  }
+  h2 {
+    font-size: 2em;
+  }
+  h3{
+    font-size: 1.5em;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  h4{
+    font-size: 1.200em;
+    font-weight:bold;
+  }
+  h5{
+    font-size: 0.999em;
+    font-style: italic;
+    margin-bottom: 20px;
+  }
+  img{
+     filter: grayscale(100%);
+     max-width: 100%;
+     display: block;
+     height: auto;
+     margin: 0 auto;
+  }
+  ul {
+    display:block;
+    max-width: 60%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+  }
+  li{
+      text-align: justify;
+  }
+  footer {
+    background-color: #262626;
+    background-image: url("https://www.transparenttextures.com/patterns/arabesque.png");
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 30px;
+    width: 100%;
+  }
+  
